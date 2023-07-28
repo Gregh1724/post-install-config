@@ -93,7 +93,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 		- Registration Required: Require registration and login to create tickets 
 		
 <p align="center">
-<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/akX1iB6.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
 
 <h3>Step 6: Configure Agents</h3>
@@ -108,7 +108,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 		- Select set
 		
 <p align="center">
-<img src="https://i.imgur.com/fTvI0Ru.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/6OU5KqX.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/0Sk5Dwv.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/1yXxFpI.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 - Select the Access tab 
@@ -124,27 +124,15 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 	
 <p align="center">
-<img src="https://i.imgur.com/HPSPHNU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/hotx1wo.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/jRPFNPY.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/BakdKm2.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
-- Create another agent and replace Jane with John.
-	- Follow the same steps as above, except make some changes to the Primary Department
-		- Select the Department dropdown menu > Support
-		- Select the Role dropdown menu > View Only
-	- Extended Accesss 
-		- Select Department > Support > Save Changes
-		
-<p align="center">
-<img src="https://i.imgur.com/qQ8ckBr.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/KVPsUb4.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
- 
      
-
 <h3>Step 7: Configure Users
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/OvrAzjj.png"80%" width="80%" alt="Azure Free Account"/>		
 	
 - Select the Users tab to create a user
 	- Email Address: Karen(@)osticket.com
@@ -152,16 +140,9 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 	- Select Add User
 	
 <p align="center">
-<img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
+<img src="https://i.imgur.com/mBR7HGM.png" height="80%" width="80%" alt="Azure Free Account"/>			
 	
- - Select the User tab again to create another user
-	- Email Address: Ken(@)osticket.com
-	- Full Name: Ken Ken
-	- Select Add User
-
-<p align="center">
-<img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>		
-
+	
 <h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
 
@@ -173,24 +154,23 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 	- Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/GSR8evR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/bp74k9z.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
+Repeat the steps to add SEV B and SEV C
 
 	- Name: SEV-B
 	- Grace Period: 4
 	- Schedule dropdown menu: 24/7
 	- Select Add Plan
 	
-<p align="center">
-<img src="https://i.imgur.com/pAbQPEP.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-	- Name: SEV-C 
+        - Name: SEV-C 
 	- Grace Period: 8
 	- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S. Holidays
 	- Select Add Plan
 
 <p align="center">
-<img src="https://i.imgur.com/5cgn0oz.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/olp9LXQ.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 
@@ -206,8 +186,8 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 - Select Add Topic for each topic
 
 <p align="center">
-<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/clsfQ4h.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 
-🎉Congratulations! You have configured osTicket succesfully!🎉 Click [here](https://github.com/roslyndwilliams/ticket-lifecycle) to move on to the final part of this tutorial! 
+ We have configured osTicket succesfully! 
