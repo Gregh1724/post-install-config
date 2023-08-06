@@ -70,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 <p align="center">
-<img src="https://i.imgur.com/bS5FaEl.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/kw6Slek.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/f2uEloL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/kw6Slek.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -83,7 +83,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 - Select Create Team
 	
 <p align="center">
-<img src="https://i.imgur.com/OukSpkW.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/1t2urW9.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/v6zzN3N.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/1t2urW9.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 5: Allow Anyone to Create Tickets</h3>
@@ -93,7 +93,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 		- Registration Required: Require registration and login to create tickets 
 		
 <p align="center">
-<img src="https://i.imgur.com/akX1iB6.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
 
 <h3>Step 6: Configure Agents</h3>
@@ -124,7 +124,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 	
 <p align="center">
-<img src="https://i.imgur.com/jRPFNPY.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/BakdKm2.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/HPSPHNU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/BakdKm2.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
      
